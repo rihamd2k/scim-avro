@@ -1,0 +1,6 @@
+#labels Featured,Phase-Deploy,Phase-Support
+=Installing scim-avro.=
+
+After downloading, double click to open the file with gdebi, click the Install package button. That’s all!
+
+http://www.omicronlab.com/download/scim-avro/screenshot-gdebi.jpg
