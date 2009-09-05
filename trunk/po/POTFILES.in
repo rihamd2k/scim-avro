@@ -1,0 +1,2 @@
+src/scim_avro_imengine.cpp
+src/scim_avro_imengine_factory.cpp

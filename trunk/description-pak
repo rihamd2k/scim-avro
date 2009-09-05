@@ -1,0 +1,3 @@
+scim-avro is the open source port of popular Avro Phonetic Bangla typing method to Linux. It takes english characters as input and transliterate that phonetically to Bangla. This software act as an IMEngine and requires Scim as the host application. 
+
+For more information, please visit: http://www.omicronlab.com/
