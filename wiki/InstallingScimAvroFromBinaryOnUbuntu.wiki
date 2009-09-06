@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Installing scim-avro from Binary package on Ubuntu
 #labels Phase-Deploy,Phase-Support
 
 = Introduction =
