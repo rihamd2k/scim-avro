@@ -1,14 +1,6 @@
-#summary One-sentence summary of this page.
+#summary Tweaking from source
 #labels Phase-Design,Phase-Deploy,Phase-Implementation
 
-= Introduction =
+= Tweaking from Source =
 
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+If you want to fork/tweak the source - feel free to do so.
