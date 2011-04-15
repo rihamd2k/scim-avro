@@ -31,4 +31,4 @@ make install
 }}}
 
 == Post installation ==
-See [GettingStarted]
+ * See [GettingStarted]
