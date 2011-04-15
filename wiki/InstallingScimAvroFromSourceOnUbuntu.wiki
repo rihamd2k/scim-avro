@@ -29,3 +29,6 @@ make
 {{{
 make install
 }}}
+
+== Post installation ==
+See [GettingStarted]
