@@ -1,5 +1,5 @@
 #summary How to install scim-avro from source on Ubuntu
-#labels Phase-Deploy,Phase-Support,Phase-Implementation
+#labels Phase-Deploy,Phase-Support,Phase-Implementation,Featured
 
 = Installing from Source on Ubuntu =
 
