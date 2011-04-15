@@ -1,14 +1,32 @@
-#summary One-sentence summary of this page.
 #labels Phase-Deploy,Phase-Support,Phase-Implementation
+= Installing from Source on Ubuntu =
 
-= Introduction =
+== Pre-Requisites ==
+  * root priviledge
+  * scim-dev installed
 
-Add your content here.
 
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+== Installation process ==
+  # Open *terminal*
+  # Install *scim-dev*
+{{{
+sudo apt-get install scim-dev
+}}}
+  # Download source code from *[http://code.google.com/p/scim-avro/source/checkout]* and go to downloaded directory
+  # Change to *super-user* mode
+{{{
+su
+}}}
+  # Run *config*
+{{{
+./configure
+}}}
+  you might need to do *`sudo chmod 777 configure`* first
+  # Run *make*
+{{{
+make
+}}}
+  # Run *make install*
+{{{
+make install
+}}}
