@@ -17,11 +17,10 @@ sudo apt-get install scim-dev
 {{{
 su
 }}}
-  # Run *config*
+  # Run *config*. You might need to do *`sudo chmod 777 configure`* first
 {{{
 ./configure
 }}}
-  you might need to do *`sudo chmod 777 configure`* first
   # Run *make*
 {{{
 make
