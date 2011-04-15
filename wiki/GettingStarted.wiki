@@ -1,14 +1,8 @@
 #summary One-sentence summary of this page.
 #labels Featured,Phase-Deploy,Phase-Implementation,Phase-Support,Phase-Requirements
 
-= Introduction =
+= Getting Started =
 
-Add your content here.
+So you now have scim-avro installed into your system.
 
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Follow up with the *[http://omicronlab.com/forum/index.php?showtopic=2029 forum]* if you encounter any problem.
