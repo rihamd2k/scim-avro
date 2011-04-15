@@ -1,14 +1,6 @@
-#summary Installing scim-avro from Binary package on Ubuntu
+#summary TODO: Installing scim-avro from Binary package on Ubuntu
 #labels Phase-Deploy,Phase-Support
 
-= Introduction =
+= TODO =
 
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Update this doc from contents from [GettingStarted] page forum link. 
