@@ -1,5 +1,5 @@
 #summary How to get started with scim-avro.
-#labels Phase-Deploy,Phase-Implementation,Phase-Requirements
+#labels Phase-Deploy,Phase-Implementation,Phase-Requirements,Featured
 
 = Getting Started =
 
