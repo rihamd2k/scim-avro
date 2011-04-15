@@ -3,6 +3,4 @@
 
 = Getting Started =
 
-So you now have scim-avro installed into your system.
-
-Follow up with the *[http://omicronlab.com/forum/index.php?showtopic=2029 forum]* if you encounter any problem.
+See instructions in the *[http://omicronlab.com/forum/index.php?showtopic=2029 Omicronlab Forum]* to get started.
