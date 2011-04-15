@@ -3,4 +3,4 @@
 
 = TODO =
 
-Update this doc from contents from [GettingStarted] page forum link. 
+Update this wiki page from contents from [http://omicronlab.com/forum/index.php?showtopic=2029 forum] discussion. 
