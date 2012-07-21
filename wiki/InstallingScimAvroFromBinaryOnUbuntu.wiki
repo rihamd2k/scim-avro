@@ -1,6 +1,0 @@
-#summary How to install scim-avro from Binary package on Ubuntu
-#labels Phase-Deploy,Phase-Support
-
-= Installing scim-avro on Ubuntu =
-
-Update this wiki page from contents from [http://omicronlab.com/forum/index.php?showtopic=2029 forum] discussion. 
