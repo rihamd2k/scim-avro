@@ -1,6 +1,0 @@
-#summary Tweaking from source
-#labels Phase-Design,Phase-Deploy,Phase-Implementation
-
-= Tweaking from Source =
-
-If you want to fork/tweak the source - feel free to do so.
