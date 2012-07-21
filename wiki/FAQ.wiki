@@ -1,6 +1,0 @@
-#summary FAQ
-#labels Phase-Support
-
-= FAQ =
-
-See [http://omicronlab.com/forum/index.php?showtopic=2029 discussion] here.
