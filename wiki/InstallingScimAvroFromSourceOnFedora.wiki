@@ -1,6 +1,0 @@
-#summary How to install scim-avro from source on Fedora
-#labels Phase-Deploy,Phase-Support,Phase-Implementation
-
-= TODO =
-
-Update.
