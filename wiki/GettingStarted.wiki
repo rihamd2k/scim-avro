@@ -1,6 +1,0 @@
-#summary How to get started with scim-avro.
-#labels Phase-Deploy,Phase-Implementation,Phase-Requirements,Featured
-
-= Getting Started =
-
-See instructions in the *[http://omicronlab.com/forum/index.php?showtopic=2029 Omicronlab Forum]* to get started.
